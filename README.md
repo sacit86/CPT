@@ -1,4 +1,5 @@
 # CPT
+Continuous Performance Test
 
 This is a Continuous Performance Test program written in Turbo Pascal for the DOS environment.
 In order to run first you should install DosBox on your computer.
